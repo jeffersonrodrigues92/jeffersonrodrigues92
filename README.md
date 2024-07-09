@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZjcWJjOHdqbmNvYmJzOG4yNzRhaGlpamxqZjE0aHUxamk0NmZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZjcWJjOHdqbmNvYmJzOG4yNzRhaGlpamxqZjE0aHUxamk0NmZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gferr3ira/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/jefferson-nascimento-rodrigues/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width=150/>
   </a>
 </div>
 
