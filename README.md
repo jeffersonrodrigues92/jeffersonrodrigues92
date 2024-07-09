@@ -25,9 +25,9 @@
 ## Programming
 
 [![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=232F3E&logo=Java&logoColor=FF9900&label=)](https://www.java.com/pt-BR/)
-[![Golang](https://img.shields.io/static/v1?style=for-the-badge&message=Golang&color=232F3E&logo=Golang&logoColor=FF9900&label=)](https://go.dev/)
-[![NodeJS](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJS&color=232F3E&logo=NodeJS&logoColor=FF9900&label=)](https://nodejs.org/pt)
-[![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=232F3E&logo=Python&logoColor=FF9900&label=)](https://go.dev/)
+[![Golang](https://img.shields.io/static/v1?style=for-the-badge&message=Golang&color=232F3E&logo=Go&logoColor=FF9900&label=)](https://go.dev/)
+[![NodeJS](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=232F3E&logo=Node.js&logoColor=FF9900&label=)](https://nodejs.org/pt)
+[![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=232F3E&logo=Python&logoColor=FF9900&label=)](https://www.python.org/)
 
 ## AWS Services
 
